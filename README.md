@@ -21,12 +21,13 @@
 </ul>
 
  ## 🖥️ Developer Tool 🖥️ 
- <p>
+<p>
 <img align="left" alt="VisualStudio" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/906/906324.svg" />
 <img align="left" alt="Eclipse" height="30px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/eclipse-icon.png" />
 <img align="left" alt="AndroidStudio" height="30px" src="https://2.bp.blogspot.com/-vQyzXtrfY04/XNMEtRuef5I/AAAAAAAAI7A/1rXwc6JFO-QFUunp-22bNlKlDzsuUfgBwCLcBGAs/s1600/image8.png" />
 <img align="left" alt="AbletonLive" height="30px" src="https://img.icons8.com/ios/48/000000/ableton.png"/>
 </p>
+</br>
 
 ## 🛠 Languages and Tools 🛠 
 <p>
@@ -45,16 +46,24 @@
  </p>
 
 # 👨🏻‍💻 Operating Systems 👨🏻‍💻
-<img height="40px" src="https://www.flaticon.com/svg/static/icons/svg/906/906308.svg"/>
-<img height="40px" src="https://www.flaticon.com/svg/static/icons/svg/518/518713.svg"/>
-<img height="40px" src="https://www.flaticon.com/svg/static/icons/svg/518/518714.svg"/>
-<img height="40px" src="https://www.flaticon.com/svg/static/icons/svg/518/518705.svg"/>
+<img align="left" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/906/906308.svg"/>
+<img align="left" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/518/518713.svg"/>
+<img align="left" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/518/518714.svg"/>
+<img align="left" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/518/518705.svg"/>
 </br>
 
 # 📬 Contact With Me 📬
 <p>
 <a href="https://www.instagram.com/alex_testa00?r=nametag">
-<img src="https://img.shields.io/badge/@Alex_Testa00%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/alex.testa.71/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="alextesta68@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>

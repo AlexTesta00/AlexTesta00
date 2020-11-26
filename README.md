@@ -18,5 +18,5 @@
 </ul>
 
  ## Developer Tool
- <img alt="VisualStudio"src="https://www.flaticon.com/free-icon/visual-studio_906324?term=visual%20studio&page=1&position=1&related_item_id=906324"/>
+ <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">
  

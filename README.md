@@ -7,9 +7,9 @@
 - 📚 I'm currently learning : 
 <p> 
 <ul>
-<li> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></li>
-<li> <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></li>
-<li> <img alt="C++"src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/></li>
+<li> <img alt="Java" align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></li>
+<li> <img alt="Git" align="left" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></li>
+<li> <img alt="C++" align="left" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/></li>
 </ul>
 </p>
 
@@ -68,5 +68,5 @@
 
 </p>
 
-# 🎵 Favorite Song 🎵
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=alexdjtesta)
+# 🎵 Now Playing🎵
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=alexdjtesta&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=alexdjtesta&redirect=true)

@@ -28,6 +28,7 @@
 </br>
 
 ## 🛠 Languages and Tools 🛠 
+<p>
  <img align="left" height="40px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
  <img align="left" height="40px" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
  <img align="left" height="40px" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
@@ -40,15 +41,18 @@
 <img align="left" height="40px" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 <img align="left" height="40px" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img align="left" height="40px" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
- </br>
+ </p>
 
 # 👨🏻‍💻 Operating Systems 👨🏻‍💻
-<img align="left" src="https://www.flaticon.com/svg/static/icons/svg/906/906308.svg"/>
-<img align="left" src="https://www.flaticon.com/svg/static/icons/svg/518/518713.svg"/>
-<img align="left" src="https://www.flaticon.com/svg/static/icons/svg/518/518714.svg"/>
-<img align="left" src="https://www.flaticon.com/svg/static/icons/svg/518/518705.svg"/>
+<img align="left" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/906/906308.svg"/>
+<img align="left" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/518/518713.svg"/>
+<img align="left" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/518/518714.svg"/>
+<img align="left" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/518/518705.svg"/>
 </br>
 
 # 📬 Contact With Me 📬
-<img src="https://img.shields.io/badge/@Alex_Testa00%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" href="https://www.instagram.com/alex_testa00?r=nametag"/>
-</br>
+<p>
+<a href="https://www.instagram.com/alex_testa00?r=nametag">
+<img src="https://img.shields.io/badge/@Alex_Testa00%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+</p>

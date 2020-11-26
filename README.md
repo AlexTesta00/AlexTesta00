@@ -43,11 +43,12 @@
  </br>
 
 # 👨🏻‍💻 Operating Systems 👨🏻‍💻
-<img align="left" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/906/906308.svg"/>
-<img align="left" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/518/518713.svg"/>
-<img align="left" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/518/518714.svg"/>
-<img align="left" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/518/518705.svg"/>
+<img align="left" src="https://www.flaticon.com/svg/static/icons/svg/906/906308.svg"/>
+<img align="left" src="https://www.flaticon.com/svg/static/icons/svg/518/518713.svg"/>
+<img align="left" src="https://www.flaticon.com/svg/static/icons/svg/518/518714.svg"/>
+<img align="left" src="https://www.flaticon.com/svg/static/icons/svg/518/518705.svg"/>
 </br>
 
 # 📬 Contact With Me 📬
 <img src="https://img.shields.io/badge/@Alex_Testa00%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" href="https://www.instagram.com/alex_testa00?r=nametag"/>
+</br>

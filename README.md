@@ -2,7 +2,7 @@
 
 <img alt = "gif" src="https://github.com/AlexTesta00/AlexTesta00/blob/main/my_gif.gif"/>
 
- ## 💁‍♂️ Who Am I 💁‍♂️
+ ## Who Am I 💁‍♂️
 - 🎓 I’m currently studying **Engineering and Computer Science at Università di Bologna Campus di Cesena**
 - 📚 I'm currently learning : 
 <p> 
@@ -20,7 +20,7 @@
     <li> <b>Sistemi Operativi </b> - Silberschatz, Galvin, Gagne</li>
 </ul>
 
- ## 🖥️ Developer Tool 🖥️ 
+ ## Developer Tool 🖥️ 
 <p>
 <img align="left" alt="VisualStudio" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/906/906324.svg" />
 <img align="left" alt="Eclipse" height="30px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/eclipse-icon.png" />
@@ -29,7 +29,7 @@
 </p>
 </br>
 
-## 🛠 Languages and Tools 🛠 
+## Languages and Tools 🛠 
 <p>
  <img height="40px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
  <img height="40px" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -45,14 +45,14 @@
 <img height="40px" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
  </p>
 
-# 👨🏻‍💻 Operating Systems 👨🏻‍💻
+# Operating Systems 👨🏻‍💻
 <img align="left" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/906/906308.svg"/>
 <img align="left" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/518/518713.svg"/>
 <img align="left" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/518/518714.svg"/>
 <img align="left" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/518/518705.svg"/>
 </br>
 
-# 📬 Contact With Me 📬
+# Contact With Me 📬
 <p>
 <a href="https://www.instagram.com/alex_testa00?r=nametag">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -66,5 +66,5 @@
 
 </p>
 
-# 🎵 Now Playing🎵
+# Now Playing🎵
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=alexdjtesta&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=alexdjtesta&redirect=true)

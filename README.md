@@ -1,15 +1,15 @@
 ### Hi there, I'm Alex Testa 👋
 
-<!-- <a href="https://alessandromazzoli.codes"><img src="https://github.com/alemazzo/alemazzo/blob/main/cutted.gif" alt="presentation"/></a>-->
+<img alt = "gif" src="https://github.com/AlexTesta00/AlexTesta00/blob/main/my_gif.gif"/>
 
  ## 💁‍♂️ Who Am I 💁‍♂️
 - 🎓 I’m currently studying **Engineering and Computer Science at Università di Bologna Campus di Cesena**
 - 📚 I'm currently learning : 
 <p> 
 <ul>
-<li> <img alt="Java" align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></li>
-<li> <img alt="Git" align="left" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></li>
-<li> <img alt="C++" align="left" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/></li>
+<li> <img alt="Java" height="30px" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></li>
+<li> <img alt="Git" height="30px" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></li>
+<li> <img alt="C++" height="30px" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/></li>
 </ul>
 </p>
 

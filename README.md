@@ -69,4 +69,4 @@
 </p>
 
 # 🎵 Favorite Song 🎵
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/alexdjtesta)
+[![Spotify](https://api.spotify.com/v1/tracks/1uXUZfJykefWuwj9VtyxIq)](https://open.spotify.com/user/alexdjtesta)

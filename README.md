@@ -69,4 +69,4 @@
 </p>
 
 # 🎵 Favorite Song 🎵
-[![Spotify](https://api.spotify.com/v1/tracks/1uXUZfJykefWuwj9VtyxIq)](https://open.spotify.com/user/alexdjtesta)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=alexdjtesta)

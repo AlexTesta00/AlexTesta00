@@ -24,7 +24,8 @@
 <img align="left" alt="VisualStudio" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/906/906324.svg" />
 <img align="left" alt="Eclipse" height="30px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/eclipse-icon.png" />
 <img align="left" alt="AndroidStudio" height="30px" src="https://2.bp.blogspot.com/-vQyzXtrfY04/XNMEtRuef5I/AAAAAAAAI7A/1rXwc6JFO-QFUunp-22bNlKlDzsuUfgBwCLcBGAs/s1600/image8.png" />
-<img align="left" alt="AbletonLive" height="30px" src="https://icons8.com/icon/25034/ableton"/>
+<img align="left" alt="AbletonLive" height="30px" src="https://img.icons8.com/ios/48/000000/ableton.png"/>
+</br>
 
 ## 🛠 Languages and Tools 🛠 
  

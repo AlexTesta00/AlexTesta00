@@ -21,5 +21,6 @@
 </ul>
 
  ## Developer Tool
-<img alt = "VisualStudio" src="https://www.flaticon.com/svg/static/icons/svg/906/906318.svg"/>
+[<img align="left" alt="VisualStudio" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/906/906324.svg" />]
+[<img align="left" alt="AndroidStudio" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/906/906324.svg" />]
  

@@ -22,7 +22,7 @@
 
  ## Developer Tool 🖥️ 
 <p>
-<img align="left" alt="VisualStudio" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/906/906324.svg" />
+<img align="left" alt="VisualStudio" height="30px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />
 <img align="left" alt="Eclipse" height="30px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/eclipse-icon.png" />
 <img align="left" alt="AndroidStudio" height="30px" src="https://2.bp.blogspot.com/-vQyzXtrfY04/XNMEtRuef5I/AAAAAAAAI7A/1rXwc6JFO-QFUunp-22bNlKlDzsuUfgBwCLcBGAs/s1600/image8.png" />
 <img align="left" alt="AbletonLive" height="30px" src="https://img.icons8.com/ios/48/000000/ableton.png"/>
@@ -47,7 +47,7 @@
 
 # Contact Me 📬
 <p>
-<a href="https://www.instagram.com/alex_testa00?r=nametag">
+<a href="https://www.instagram.com/alextesta._">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 

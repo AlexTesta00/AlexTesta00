@@ -45,14 +45,7 @@
 <img height="40px" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
  </p>
 
-# Operating Systems 👨🏻‍💻
-<img align="left" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/906/906308.svg"/>
-<img align="left" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/518/518713.svg"/>
-<img align="left" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/518/518714.svg"/>
-<img align="left" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/518/518705.svg"/>
-</br>
-
-# Contact With Me 📬
+# Contact Me 📬
 <p>
 <a href="https://www.instagram.com/alex_testa00?r=nametag">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>

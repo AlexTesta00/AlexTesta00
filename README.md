@@ -58,6 +58,3 @@
 <img src="https://img.shields.io/badge/alextesta68@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 </p>
-
-# Now Playing🎵
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=alexdjtesta&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=alexdjtesta&redirect=true)

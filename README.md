@@ -59,7 +59,13 @@ Modern Web Development  Mobile Development        Engineering Mindset
 ```
 
 ## GitHub Stats
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexTesta00&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTesta00&layout=compact&theme=transparent&hide_border=true" /> </div>
+
+<div align="center">
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexTesta00&theme=transparent" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexTesta00&theme=transparent" />
+
+</div>
 
 ## Contact Me
 <p> <a href="https://www.instagram.com/alextesta._"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <img src="https://img.shields.io/badge/alextesta68@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </p>

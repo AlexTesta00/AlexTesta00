@@ -1,60 +1,71 @@
-### Hi there, I'm Alex Testa 👋
+<div align="center">
 
-<img alt = "gif" src="https://github.com/AlexTesta00/AlexTesta00/blob/main/my_gif.gif"/>
+# Alex Testa
 
- ## Who Am I 💁‍♂️
-- 🎓 I’m currently studying **Engineering and Computer Science at Università di Bologna Campus di Cesena**
-- 📚 I'm currently learning : 
-<p> 
-<ul>
-<li> <img alt="Java" height="30px" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></li>
-<li> <img alt="Git" height="30px" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></li>
-<li> <img alt="C++" height="30px" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/></li>
-</ul>
+**Software Developer**  
+Computer Science & Engineering background
+
+Building clean, thoughtful and maintainable software.
+
+</div>
+
+---
+
+## About Me
+
+- Focused on software development, backend engineering and clean architecture.
+- Interested in writing simple, readable and scalable code.
+- Always improving through practice, curiosity and continuous learning.
+- Comfortable working across low-level, object-oriented, web and mobile technologies.
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
-- 🤓 I'm currently reading :
-<ul>
-    <li> <b>Il linguaggio C </b> - Brian W. Kerninghan & Dennis M. Ritchie </li>
-    <li> <b>Design Patterns </b> - Gamma, Helm, Jhonson, Vlissides </li>
-    <li> <b>Sistemi Operativi </b> - Silberschatz, Galvin, Gagne</li>
-</ul>
+### Frameworks & Tools
 
- ## Developer Tool 🖥️ 
 <p>
-<img align="left" alt="VisualStudio" height="30px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />
-<img align="left" alt="Eclipse" height="30px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/eclipse-icon.png" />
-<img align="left" alt="AndroidStudio" height="30px" src="https://2.bp.blogspot.com/-vQyzXtrfY04/XNMEtRuef5I/AAAAAAAAI7A/1rXwc6JFO-QFUunp-22bNlKlDzsuUfgBwCLcBGAs/s1600/image8.png" />
-<img align="left" alt="AbletonLive" height="30px" src="https://img.icons8.com/ios/48/000000/ableton.png"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-</br>
 
-## Languages and Tools 🛠 
-<p>
- <img height="40px" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
- <img height="40px" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
- <img height="40px" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
- <img height="40px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
- <img height="40px" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
- <img height="40px" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img height="40px" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img height="40px" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-<img height="40px" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img height="40px" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
-<img height="40px" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img height="40px" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
- </p>
+---
 
-# Contact Me 📬
-<p>
-<a href="https://www.instagram.com/alextesta._">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+## Currently Focused On
 
-<a href="https://www.facebook.com/alex.testa.71/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
+```txt
+Backend Development     Software Architecture     Clean Code
+Modern Web Development  Mobile Development        Engineering Mindset
+```
 
-<img src="https://img.shields.io/badge/alextesta68@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+## GitHub Stats
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexTesta00&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTesta00&layout=compact&theme=transparent&hide_border=true" /> </div>
 
-</p>
+## Contact Me
+<p> <a href="https://www.instagram.com/alextesta._"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <img src="https://img.shields.io/badge/alextesta68@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </p>
+
+<div align="center">
+
+Less noise. More code.
+
+</div>
